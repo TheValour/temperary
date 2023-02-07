@@ -2,6 +2,10 @@
     height: 50vh;
     background-color: aqua;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+p{
+    width: 50vh;
 }
